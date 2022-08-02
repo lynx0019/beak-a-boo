@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.beekaboo.quiz">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/beek"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".StartActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".QuestionsActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.example.beekaboo.quiz.QuestionsActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MediumQuestionActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.example.beekaboo.quiz.MediumQuestionActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".HardQuestionActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.example.beekaboo.quiz.HardQuestionActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ResultActivity" ></activity>
+        <activity android:name=".ResultMediumActivity" ></activity>
+        <activity android:name=".ResultHardActivity" ></activity>
+        <activity android:name=".MainActivity" ></activity>
+        <activity android:name=".TimesUpActivity" ></activity>
+        <activity android:name=".ScoreboardActivity" ></activity>
+        <service android:name="Services"></service>
+        <service android:name="AudioClick"></service>
+        <service android:name="AudioClicker"></service>
+        <service android:name=".BtnAudioClick"></service>
+
+    </application>
+
+</manifest>

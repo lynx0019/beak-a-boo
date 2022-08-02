@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Downloads/QuizApp-Android/app/src/main/res/drawable-xxhdpi/roundedbutton.xml" value="0.1" />
+        <entry key="..\:/Users/User/Downloads/QuizApp-Android/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.2" />
+        <entry key="..\:/Users/User/Downloads/QuizApp-Android/app/src/main/res/layout/activity_developer.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/User/Downloads/QuizApp-Android/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/User/Downloads/QuizApp-Android/app/src/main/res/layout/activity_questions.xml" value="0.33" />
+        <entry key="..\:/Users/User/Downloads/QuizApp-Android/app/src/main/res/layout/activity_result.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/User/Downloads/QuizApp-Android/app/src/main/res/layout/activity_start.xml" value="0.1" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/drawable-xxhdpi/ic_baseline_cancel.xml" value="0.1485" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/drawable-xxhdpi/roundedbutton.xml" value="0.2" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.1485" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.1445" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1485" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.1485" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_question_hard.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_question_medium.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_questions.xml" value="0.18" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_result.xml" value="0.33" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_result_hard.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_result_medium.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_scoreboard.xml" value="0.25" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_start.xml" value="0.22" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/activity_timesup.xml" value="0.18" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/correct_toast_layout.xml" value="0.1375" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/toast_layout.xml" value="0.33" />
+        <entry key="..\:/Users/User/Downloads/beekaboo/app/src/main/res/layout/toast_layout_v2.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
