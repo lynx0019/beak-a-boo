@@ -19,9 +19,14 @@ A BEAK-A-BOO is simple FUN QUIZ GAME that test your stock knowledge about a cert
 
 ![wallpaper 3](https://user-images.githubusercontent.com/110411640/182341726-a84370fe-e63d-4243-954a-c15971789a7a.png)
 
+## Game Score Board
+
+![wallpaper 4](https://user-images.githubusercontent.com/110411640/182342546-f5ea8d67-2d8e-461e-adf0-0fcfbf4c6037.png)
+
+
 ## Demo Video
 
-Click to watch our [Demo](https://youtu.be/8USf1HyQkTw)
+Click to watch our [Demo](https://www.youtube.com/watch?v=xmMhTNF0KRU)
 
 ## Researcher/Developer
 
